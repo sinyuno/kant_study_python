@@ -121,8 +121,6 @@ while True:
             else:
                 print("Y/N 만 입력해 주세요.")
                 continue
-
-    
         if user_continue == "y" or user_continue == "Y":
             continue
         elif user_continue == "n" or user_continue == "N":
